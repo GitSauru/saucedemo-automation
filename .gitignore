@@ -1,0 +1,7 @@
+*.env
+__pycache__/
+.env
+.playwright/
+allure-results/
+pyrightconfig.json
+.pytest_cache
